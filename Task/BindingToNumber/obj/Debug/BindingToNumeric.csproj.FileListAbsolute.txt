@@ -1,0 +1,6 @@
+D:\Downloads\тестовые задания\TestTask(Dmitriykul)\TestTask(Dmitriykul)\BindingToNumber\bin\Debug\BindingToNumeric.dll
+D:\Downloads\тестовые задания\TestTask(Dmitriykul)\TestTask(Dmitriykul)\BindingToNumber\bin\Debug\BindingToNumeric.pdb
+D:\Downloads\тестовые задания\TestTask(Dmitriykul)\TestTask(Dmitriykul)\BindingToNumber\obj\Debug\BindingToNumeric.csproj.AssemblyReference.cache
+D:\Downloads\тестовые задания\TestTask(Dmitriykul)\TestTask(Dmitriykul)\BindingToNumber\obj\Debug\BindingToNumeric.csproj.CoreCompileInputs.cache
+D:\Downloads\тестовые задания\TestTask(Dmitriykul)\TestTask(Dmitriykul)\BindingToNumber\obj\Debug\BindingToNumeric.dll
+D:\Downloads\тестовые задания\TestTask(Dmitriykul)\TestTask(Dmitriykul)\BindingToNumber\obj\Debug\BindingToNumeric.pdb

@@ -1,0 +1,12 @@
+D:\Downloads\тестовые задания\TestTask(Dmitriykul)\TestTask(Dmitriykul)\Common\bin\Debug\Common.dll
+D:\Downloads\тестовые задания\TestTask(Dmitriykul)\TestTask(Dmitriykul)\Common\bin\Debug\Common.pdb
+D:\Downloads\тестовые задания\TestTask(Dmitriykul)\TestTask(Dmitriykul)\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+D:\Downloads\тестовые задания\TestTask(Dmitriykul)\TestTask(Dmitriykul)\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\Downloads\тестовые задания\TestTask(Dmitriykul)\TestTask(Dmitriykul)\Common\obj\Debug\Common.dll
+D:\Downloads\тестовые задания\TestTask(Dmitriykul)\TestTask(Dmitriykul)\Common\obj\Debug\Common.pdb
+D:\Downloads\тестовые задания\Task\Common\bin\Debug\Common.dll
+D:\Downloads\тестовые задания\Task\Common\bin\Debug\Common.pdb
+D:\Downloads\тестовые задания\Task\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+D:\Downloads\тестовые задания\Task\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\Downloads\тестовые задания\Task\Common\obj\Debug\Common.dll
+D:\Downloads\тестовые задания\Task\Common\obj\Debug\Common.pdb
